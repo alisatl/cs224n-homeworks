@@ -1,0 +1,12 @@
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.5
+  - numpy
+  - scipy
+  - tqdm
+  - docopt
+  - pytorch
+  - nltk
+  - torchvision
